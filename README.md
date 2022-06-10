@@ -11,5 +11,5 @@ designing our model.
 
    ![image](https://user-images.githubusercontent.com/73732287/173015575-00cf9606-fc8a-4d6a-998a-f9ee1d359a15.png)
 
-(a) Sample of Hand movement of person suffering from parkinson's disease
+(a) Sample of Hand movement of person suffering from parkinson's disease<br/>
 (b) Sample of Hand movement of Health person
